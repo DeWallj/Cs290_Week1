@@ -1,1 +1,3 @@
 Why shouldn't you write with a broken pencil?
+
+Answer to joke is in the branch.
